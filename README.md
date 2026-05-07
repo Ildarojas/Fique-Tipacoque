@@ -1,6 +1,6 @@
 # Fique Tipacoque
 
-#Este repositorio contiene el prototipo desarrollado en Figma para el curso de proyecto de grado de Artesanías de Fique realizado en Figma.
+Este repositorio contiene el prototipo desarrollado en Figma para el curso de proyecto de grado de Artesanías de Fique..
 
 🔗 Prototipo en Figma:
 https://www.figma.com/proto/Dg6IOLkTKZPmcZXcs2U9sa/Fique-Tipacoque?node-id=5-7&t=qGYWddpeej8ZbcYh-1 
