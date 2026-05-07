@@ -1,4 +1,4 @@
-# README.md
+# Fique Tipacoque
 
 #Este repositorio contiene el prototipo desarrollado en Figma para el curso de proyecto de grado de Artesanías de Fique realizado en Figma.
 
